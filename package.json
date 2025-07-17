@@ -1,5 +1,5 @@
 {
-  "name": "react-timelines",
+  "name": "@x-marosi/react-timelines",
   "version": "2.7.2",
   "description": "React Timelines",
   "main": "lib/index.js",
